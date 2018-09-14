@@ -24,4 +24,20 @@ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 
 5. Now you can place your code in ```lib``` folder
 
-6. Write some test and place your test file in "\__tests__\" folder
+6. Write some test and place your test file in \__tests__ folder
+
+7. run ```npm run test``` to test your project.
+
+8. run ```npm run test:cover``` to check code coverage
+
+9. Connect your repositories with [Travis-Cli](https://travis-cli.org) and [Coveralls](https://coveralls.io)
+
+10. Commit your code
+
+11. run ```npm version patch``` to push your code along with release tag on the github server.
+
+12. Don't forget to update README.md for you library.
+
+13. To publish your library, login to npm.
+
+14. run ```npm publish```
