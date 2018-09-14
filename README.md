@@ -1,10 +1,12 @@
 [![Build Status](https://travis-ci.org/CodeSnooker/ts-library.svg?branch=master)](https://travis-ci.org/CodeSnooker/ts-library)
 [![Coverage Status](https://coveralls.io/repos/github/CodeSnooker/ts-library/badge.svg?branch=master)](https://coveralls.io/github/CodeSnooker/ts-library?branch=master)
 
-#ts-library
+ts-library
+---
 This is sample typescript library project which can be used base project to build a typescript library.
 
-##Creating Library
+Creating Library
+----
 
 1. Clone this repository by running following command. Here we are target folder as lamda. You can change the name if you wish to do so.
 
